@@ -1,0 +1,11 @@
+pytesseract
+Pillow
+PyPDF2
+pdf2image
+python-docx
+openpyxl
+numpy
+scikit-learn
+matplotlib
+json
+requests
